@@ -1,0 +1,12 @@
+[submodule "hydroponics-ui"]
+	path = hydroponics-ui
+	url = https://github.com/gfvandehei/hydroponics-ui.git
+[submodule "hydroponics-proxy"]
+	path = hydroponics-proxy
+	url = https://github.com/gfvandehei/hydroponics-proxy.git
+[submodule "hydroponics-rpi-server"]
+	path = hydroponics-rpi-server
+	url = https://github.com/gfvandehei/hydroponics-rpi-server.git
+[submodule "hydroponics-libraries"]
+	path = hydroponics-libraries
+	url = https://github.com/gfvandehei/hydroponics-libraries.git
